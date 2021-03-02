@@ -5,7 +5,7 @@
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19583835" height="140px" /><br>
 
 ![Shank's stats](https://github-readme-stats.vercel.app/api?username=shank03&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats&hide=issues,stars&title_color=1A73E8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shank03&langs_count=10&title_color=1A73E8&hide_border=true&hide_title=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shank03&langs_count=10&title_color=1A73E8&hide_border=true&hide_title=true&layout=compact)<br>
 
 - **My works:** <br>
 &nbsp;&nbsp;&bull; Android 10 ROMs<br>
