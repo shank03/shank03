@@ -17,4 +17,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Schedule Dark Theme and Wallpaper-Android 10](https://play.google.com/store/apps/details?id=com.alpha.dev.schedule_dark_theme) <br>
 
 - 📫 How to reach me: [Telegram](https://t.me/shank03)
-- ⚡ Fun fact: JavaScript irritates me to core
