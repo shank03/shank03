@@ -8,9 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shank03&langs_count=10&title_color=1A73E8&hide_border=true&hide_title=true&layout=compact)<br>
 
 - **My works:** <br>
-&nbsp;&nbsp;&bull; Android 10 ROMs<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Havoc OS](https://forum.xda-developers.com/xperia-xz1-compact/development/rom-havoc-os-v3-6-t4113345)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pixel Experience](https://forum.xda-developers.com/xperia-xz1-compact/development/rom-pixel-experience-10-0-plus-update-t4071563)<br><br>
+&nbsp;&nbsp;&bull; Custom Android ROMs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Havoc OS](https://forum.xda-developers.com/t/rom-havoc-os-4-1-official-r.4225905) (Android 11)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pixel Experience](https://forum.xda-developers.com/xperia-xz1-compact/development/rom-pixel-experience-10-0-plus-update-t4071563) (Android 10)<br><br>
 &nbsp;&nbsp;&bull; Apps<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Helper](https://play.google.com/store/apps/details?id=com.utility.keeper) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Flip-to-Shush](https://play.google.com/store/apps/details?id=com.alpha.dev.flip_to_shush) <br>
