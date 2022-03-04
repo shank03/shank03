@@ -11,6 +11,9 @@
 &nbsp;&nbsp;&bull; Custom Android ROMs: [Havoc OS](https://forum.xda-developers.com/t/rom-havoc-os-4-1-official-r.4225905) (Android 11) | [Pixel Experience](https://forum.xda-developers.com/xperia-xz1-compact/development/rom-pixel-experience-10-0-plus-update-t4071563) (Android 10)<br>
 &nbsp;&nbsp;&bull; Apps: [Helper](https://play.google.com/store/apps/details?id=com.utility.keeper) | [Flip-to-Shush](https://play.google.com/store/apps/details?id=com.alpha.dev.flip_to_shush) | [Schedule Dark Theme and Wallpaper-Android 10](https://play.google.com/store/apps/details?id=com.alpha.dev.schedule_dark_theme) <br>
 
+[![Yoshino Common](https://github-readme-stats.vercel.app/api/pin/?username=shank03&repo=android_device_sony_yoshino-common&show_owner=true)](https://github.com/shank03/android_device_sony_yoshino-common)
+[![Lilac](https://github-readme-stats.vercel.app/api/pin/?username=shank03&repo=android_device_sony_lilac&show_owner=true)](https://github.com/shank03/android_device_sony_lilac)
+[![Lilac Vendor](https://github-readme-stats.vercel.app/api/pin/?username=shank03&repo=android_vendor_sony_lilac&show_owner=true)](https://github.com/shank03/android_vendor_sony_lilac)
 [![Behave Card](https://github-readme-stats.vercel.app/api/pin/?username=Beesechurgers&repo=Behave&show_owner=true)](https://github.com/Beesechurgers/Behave)
 
 - 📫 How to reach me: [Telegram](https://t.me/shank03)
