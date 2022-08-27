@@ -2,7 +2,7 @@
 
 ### I am a [Google Certified Associate Android Developer](https://www.credential.net/8ac253ae-ee5a-4670-aa97-c1e0d1adf587?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b#gs.co91yd)
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19583835" height="100px" /><br>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56248814?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b" height="100px" /><br>
 
 ![Shank's stats](https://github-readme-stats.vercel.app/api?username=shank03&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats&hide=issues,stars&title_color=1A73E8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shank03&langs_count=10&title_color=1A73E8&hide_border=true&hide_title=true&layout=compact)<br>
