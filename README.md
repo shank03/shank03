@@ -20,7 +20,7 @@
 
 ### My works:
 - **SDE (Security Engineer) | Expedia Group | May 2023 - July 2023**
-  - Developed a secure REST service, user-detail-service to fetch customer data from internal GRPC/REST services.
+  - Developed a secure REST service, `user-detail-service` to fetch customer data from internal GRPC/REST services.
   - Implemented Okta OAuth2.0 for restricted access to authorized personnel, ensuring data privacy.
   - Techstack: `Spring WebFlux, Spring Security, Okta Spring, Kotlin, Maven`
 - **Pinned Projects**
