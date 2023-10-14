@@ -10,7 +10,7 @@
 -------
 
 ### Tech Stacks:
-- Languages: `C, C++, Java, Kotlin, GoLang, Rust, Typescript`
+- Languages: `C, C++, Java, Kotlin, GoLang, Rust, Typescript, Python`
 - Frameworks and libraries:
   - Android: `AndroidX, Jetpack Compose, MVVM, Firebase, Retrofit, Room, Dagger`
   - Backend: `Spring WebFlux, Spring Security, Spring R2DBC, Spring OAuth2`
