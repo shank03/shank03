@@ -13,8 +13,8 @@
 - Languages: `C, C++, Java, Kotlin, GoLang, Rust, Typescript, Python`
 - Frameworks and libraries:
   - Android: `AndroidX, Jetpack Compose, MVVM, Firebase, Retrofit, Room, Dagger`
-  - Backend: `Spring WebFlux, Spring Security, Spring R2DBC, Spring OAuth2`
-  - Others: `Rust, Typescript, Git, SQL, Django, ReactJS, NodeJS`
+  - Backend: `Spring WebFlux, Spring Security, Spring R2DBC, Spring OAuth2, Echo, GORM, Axum, Sea-ORM, Tokio`
+  - Others: `Typescript, Git, SQL, Django, ReactJS, NodeJS`
 - Relevant Courses: `Operating Systems, Database Management Systems, Object Oriented Programming, Networking`
 - IDEs/Editors: `Intellij, VS Code, CLion, Android Studio, Neovim`
 
