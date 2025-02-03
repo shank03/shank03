@@ -19,6 +19,7 @@
 - IDEs/Editors: `Intellij, VS Code, CLion, Android Studio, Neovim`
 
 ### My works:
+- **SDE 1 | Konrad Group | Jan 2025 - Current**
 - **SDE (Security Engineer) Intern | Expedia Group | May 2023 - July 2023**
   - Developed a secure REST service, `user-detail-service` to fetch customer data from internal GRPC/REST services.
   - Implemented Okta OAuth2.0 for restricted access to authorized personnel, ensuring data privacy.
