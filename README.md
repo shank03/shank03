@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am a [Google Certified Associate Android Developer](https://www.credential.net/8ac253ae-ee5a-4670-aa97-c1e0d1adf587?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b#gs.co91yd)
+Backend and mobile apps developer by profession and programming cool stuffs as passion. Also, I am a [Google Certified Associate Android Developer](https://www.credential.net/8ac253ae-ee5a-4670-aa97-c1e0d1adf587?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b#gs.co91yd)
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56248814?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b" height="100px" /><br>
 
@@ -10,21 +10,16 @@
 -------
 
 ### Tech Stacks:
-- Languages: `C, C++, Java, Kotlin, GoLang, Rust, Typescript, Python`
+- Languages: `C, C++, Java, Kotlin, GoLang, Rust`
 - Frameworks and libraries:
   - Android: `AndroidX, Jetpack Compose, MVVM, Firebase, Retrofit, Room, Dagger`
-  - Backend: `Spring WebFlux, Spring Security, Spring R2DBC, Spring OAuth2, Echo, GORM, Axum, Sea-ORM, Tokio`
-  - Others: `Typescript, Git, SQL, Django, ReactJS, NodeJS`
-- Relevant Courses: `Operating Systems, Database Management Systems, Object Oriented Programming, Networking`
-- IDEs/Editors: `Intellij, VS Code, CLion, Android Studio, Neovim`
+  - Backend: `Spring WebFlux, Spring Security, Spring R2DBC, Spring OAuth2, Echo, GORM, Axum, Sea-ORM, Sqlx, Tokio`
+  - Others: `Typescript, Svelte`
+- Relevant Courses: `Operating Systems, Database Management Systems, Networking`
+- IDEs/Editors: `Intellij, Android Studio, Neovim, Zed`
 
 ### My works:
-- **SDE 1 | Konrad Group | Jan 2025 - Current**
-- **SDE (Security Engineer) Intern | Expedia Group | May 2023 - July 2023**
-  - Developed a secure REST service, `user-detail-service` to fetch customer data from internal GRPC/REST services.
-  - Implemented Okta OAuth2.0 for restricted access to authorized personnel, ensuring data privacy.
-  - Techstack: `Spring WebFlux, Spring Security, Okta Spring, Kotlin, Maven`
-- **Pinned Projects**
+- **Pinned Projects (below)**
 - **Custom Android ROMs (AOSP):** [Yoshino Common](https://github.com/shank03/android_device_sony_yoshino-common) - [Lilac](https://github.com/shank03/android_device_sony_lilac) - [Lilac Vendor](https://github.com/shank03/android_vendor_sony_lilac)
   - [Havoc OS](https://forum.xda-developers.com/t/rom-havoc-os-4-1-official-r.4225905) (Android 11/12)
   - [Pixel Experience](https://forum.xda-developers.com/xperia-xz1-compact/development/rom-pixel-experience-10-0-plus-update-t4071563) (Android 10)<br>
