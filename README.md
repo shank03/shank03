@@ -15,7 +15,7 @@ Backend and mobile apps developer by profession and programming cool stuffs as p
   - Android: `AndroidX, Jetpack Compose, MVVM, Firebase, Retrofit, Room, Dagger`
   - Backend: `Spring WebFlux, Spring Security, Spring R2DBC, Spring OAuth2, Echo, GORM, Axum, Sea-ORM, Sqlx, Tokio`
   - Others: `Typescript, Svelte`
-- Relevant Courses: `Operating Systems, Database Management Systems, Networking`
+- Relevant Courses: `Operating Systems, Distributed Systems, Networking`
 - IDEs/Editors: `Intellij, Android Studio, Neovim, Zed`
 
 ### My works:
