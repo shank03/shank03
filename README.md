@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Self taught programmer / Distributed and networking systems / programming cool stuffs as passion. Also, I am a [Google Certified Associate Android Developer](https://www.credential.net/8ac253ae-ee5a-4670-aa97-c1e0d1adf587?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b#gs.co91yd)
+Distributed and networking systems / programming cool stuffs as passion. Also, I am a [Google Certified Associate Android Developer](https://www.credential.net/8ac253ae-ee5a-4670-aa97-c1e0d1adf587?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b#gs.co91yd)
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56248814?key=08622314ff7f4e343d1a265d100429a047b06698d6ed0c8e670e81e28ce12e4b" height="100px" /><br>
 
